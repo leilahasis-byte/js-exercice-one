@@ -1,0 +1,13 @@
+{
+    "id":1,
+    "name":"narki",
+    "city":"mosku",
+    "order":[
+        { "id":1,"product":"laptop","quantity":1},
+          { "id":2,"product":"mouse","quantity":2}
+            
+
+        
+    ]
+
+   }
